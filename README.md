@@ -1,6 +1,10 @@
 # opti-ml
 Research and experimentation with ML, Goal-based AI, and LLMs
 
+## LLM Autonomous Agents
+
+- [A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/abs/2308.11432)
+
 ## Comparing GOAP vs. Utility AI
 
 - Via GPT4
