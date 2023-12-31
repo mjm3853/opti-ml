@@ -4,6 +4,7 @@ Research and experimentation with ML, Goal-based AI, and LLMs
 ## LLM Autonomous Agents
 
 - [A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/abs/2308.11432)
+- [The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/abs/2309.07864)
 
 ## Comparing GOAP vs. Utility AI
 
